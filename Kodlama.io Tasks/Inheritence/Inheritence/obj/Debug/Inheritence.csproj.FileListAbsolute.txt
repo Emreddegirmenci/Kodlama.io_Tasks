@@ -1,0 +1,7 @@
+C:\Users\emred\Desktop\engindemirog\Odevler\Inheritence\Inheritence\bin\Debug\Inheritence.exe.config
+C:\Users\emred\Desktop\engindemirog\Odevler\Inheritence\Inheritence\bin\Debug\Inheritence.exe
+C:\Users\emred\Desktop\engindemirog\Odevler\Inheritence\Inheritence\bin\Debug\Inheritence.pdb
+C:\Users\emred\Desktop\engindemirog\Odevler\Inheritence\Inheritence\obj\Debug\Inheritence.csprojAssemblyReference.cache
+C:\Users\emred\Desktop\engindemirog\Odevler\Inheritence\Inheritence\obj\Debug\Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\emred\Desktop\engindemirog\Odevler\Inheritence\Inheritence\obj\Debug\Inheritence.exe
+C:\Users\emred\Desktop\engindemirog\Odevler\Inheritence\Inheritence\obj\Debug\Inheritence.pdb

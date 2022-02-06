@@ -1,0 +1,13 @@
+C:\Users\emred\Desktop\engindemirog\Odevler\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.exe
+C:\Users\emred\Desktop\engindemirog\Odevler\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+C:\Users\emred\Desktop\engindemirog\Odevler\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+C:\Users\emred\Desktop\engindemirog\Odevler\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+C:\Users\emred\Desktop\engindemirog\Odevler\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+C:\Users\emred\Desktop\engindemirog\Odevler\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\emred\Desktop\engindemirog\Odevler\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.csprojAssemblyReference.cache
+C:\Users\emred\Desktop\engindemirog\Odevler\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\emred\Desktop\engindemirog\Odevler\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+C:\Users\emred\Desktop\engindemirog\Odevler\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+C:\Users\emred\Desktop\engindemirog\Odevler\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+C:\Users\emred\Desktop\engindemirog\Odevler\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\emred\Desktop\engindemirog\Odevler\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\emred\Desktop\engindemirog\Odevler\Dictionary\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+C:\Users\emred\Desktop\engindemirog\Odevler\Dictionary\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+C:\Users\emred\Desktop\engindemirog\Odevler\Dictionary\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+C:\Users\emred\Desktop\engindemirog\Odevler\Dictionary\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+C:\Users\emred\Desktop\engindemirog\Odevler\Dictionary\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\emred\Desktop\engindemirog\Odevler\Dictionary\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\emred\Desktop\engindemirog\Odevler\Dictionary\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csprojAssemblyReference.cache
+C:\Users\emred\Desktop\engindemirog\Odevler\Dictionary\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\emred\Desktop\engindemirog\Odevler\Dictionary\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\emred\Desktop\engindemirog\Odevler\Dictionary\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+C:\Users\emred\Desktop\engindemirog\Odevler\Dictionary\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\emred\Desktop\engindemirog\Odevler\Dictionary\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\emred\Desktop\engindemirog\Odevler\Dictionary\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache

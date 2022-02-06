@@ -1,0 +1,13 @@
+C:\Users\emred\Desktop\engindemirog\Odevler\InterfacesBestPractice\InterfacesBestPractice\bin\Debug\netcoreapp3.1\InterfacesBestPractice.exe
+C:\Users\emred\Desktop\engindemirog\Odevler\InterfacesBestPractice\InterfacesBestPractice\bin\Debug\netcoreapp3.1\InterfacesBestPractice.deps.json
+C:\Users\emred\Desktop\engindemirog\Odevler\InterfacesBestPractice\InterfacesBestPractice\bin\Debug\netcoreapp3.1\InterfacesBestPractice.runtimeconfig.json
+C:\Users\emred\Desktop\engindemirog\Odevler\InterfacesBestPractice\InterfacesBestPractice\bin\Debug\netcoreapp3.1\InterfacesBestPractice.runtimeconfig.dev.json
+C:\Users\emred\Desktop\engindemirog\Odevler\InterfacesBestPractice\InterfacesBestPractice\bin\Debug\netcoreapp3.1\InterfacesBestPractice.dll
+C:\Users\emred\Desktop\engindemirog\Odevler\InterfacesBestPractice\InterfacesBestPractice\bin\Debug\netcoreapp3.1\InterfacesBestPractice.pdb
+C:\Users\emred\Desktop\engindemirog\Odevler\InterfacesBestPractice\InterfacesBestPractice\obj\Debug\netcoreapp3.1\InterfacesBestPractice.csprojAssemblyReference.cache
+C:\Users\emred\Desktop\engindemirog\Odevler\InterfacesBestPractice\InterfacesBestPractice\obj\Debug\netcoreapp3.1\InterfacesBestPractice.csproj.CoreCompileInputs.cache
+C:\Users\emred\Desktop\engindemirog\Odevler\InterfacesBestPractice\InterfacesBestPractice\obj\Debug\netcoreapp3.1\InterfacesBestPractice.AssemblyInfoInputs.cache
+C:\Users\emred\Desktop\engindemirog\Odevler\InterfacesBestPractice\InterfacesBestPractice\obj\Debug\netcoreapp3.1\InterfacesBestPractice.AssemblyInfo.cs
+C:\Users\emred\Desktop\engindemirog\Odevler\InterfacesBestPractice\InterfacesBestPractice\obj\Debug\netcoreapp3.1\InterfacesBestPractice.dll
+C:\Users\emred\Desktop\engindemirog\Odevler\InterfacesBestPractice\InterfacesBestPractice\obj\Debug\netcoreapp3.1\InterfacesBestPractice.pdb
+C:\Users\emred\Desktop\engindemirog\Odevler\InterfacesBestPractice\InterfacesBestPractice\obj\Debug\netcoreapp3.1\InterfacesBestPractice.genruntimeconfig.cache

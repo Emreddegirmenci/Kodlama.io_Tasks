@@ -1,0 +1,7 @@
+C:\Users\emred\Desktop\engindemirog\Odevler\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+C:\Users\emred\Desktop\engindemirog\Odevler\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+C:\Users\emred\Desktop\engindemirog\Odevler\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+C:\Users\emred\Desktop\engindemirog\Odevler\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.csprojAssemblyReference.cache
+C:\Users\emred\Desktop\engindemirog\Odevler\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\emred\Desktop\engindemirog\Odevler\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+C:\Users\emred\Desktop\engindemirog\Odevler\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.pdb
