@@ -1,0 +1,7 @@
+C:\Users\Web ve Mobil Prog\source\repos\Attributes\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\Web ve Mobil Prog\source\repos\Attributes\Attributes\bin\Debug\Attributes.exe
+C:\Users\Web ve Mobil Prog\source\repos\Attributes\Attributes\bin\Debug\Attributes.pdb
+C:\Users\Web ve Mobil Prog\source\repos\Attributes\Attributes\obj\Debug\Attributes.csproj.AssemblyReference.cache
+C:\Users\Web ve Mobil Prog\source\repos\Attributes\Attributes\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\Web ve Mobil Prog\source\repos\Attributes\Attributes\obj\Debug\Attributes.exe
+C:\Users\Web ve Mobil Prog\source\repos\Attributes\Attributes\obj\Debug\Attributes.pdb

@@ -1,0 +1,7 @@
+C:\Users\Web ve Mobil Prog\source\repos\Events\Events\bin\Debug\Events.exe.config
+C:\Users\Web ve Mobil Prog\source\repos\Events\Events\bin\Debug\Events.exe
+C:\Users\Web ve Mobil Prog\source\repos\Events\Events\bin\Debug\Events.pdb
+C:\Users\Web ve Mobil Prog\source\repos\Events\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+C:\Users\Web ve Mobil Prog\source\repos\Events\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\Web ve Mobil Prog\source\repos\Events\Events\obj\Debug\Events.exe
+C:\Users\Web ve Mobil Prog\source\repos\Events\Events\obj\Debug\Events.pdb

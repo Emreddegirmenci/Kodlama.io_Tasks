@@ -1,0 +1,7 @@
+C:\Users\Web ve Mobil Prog\source\repos\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Web ve Mobil Prog\source\repos\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\Web ve Mobil Prog\source\repos\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Web ve Mobil Prog\source\repos\Delegates\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\Web ve Mobil Prog\source\repos\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Web ve Mobil Prog\source\repos\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\Web ve Mobil Prog\source\repos\Delegates\Delegates\obj\Debug\Delegates.pdb
